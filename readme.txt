@@ -8,3 +8,4 @@ When new patches are released assuming nothing changes you can simply:
     * look at the project version to find the -p parameter here: /Applications/League of Legends.app/Contents/LoL/RADS/projects/lol_air_client/releases
     * look at the solution version to find the -s parameter here: /Applications/League of Legends.app/Contents/LoL/RADS/solutions/lol_game_client_sln/releases
 
+Thanks to http://gidtkdtla.tistory.com/68 for the technique, may be a good resource for future patches also. 
