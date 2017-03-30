@@ -6,7 +6,7 @@ def usage():
     Usage:
     lolkrfx.py -l [for language code e.g. ko_kr] -p [project version code e.g. 0.0.1.23] -s [solution version code e.g. 0.0.0.245]
     e.g.
-    lolkrfx.py -l ko_kr -p 0.0.1.23 -s 0.0.0.245
+    lolkrfx.py -l ko_kr -p 0.0.1.24 -s 0.0.0.246
 
     All three must be specified.
     """
